@@ -1,0 +1,1 @@
+ALTER TABLE "shadcn_students" ADD COLUMN "password" varchar(128) NOT NULL;
